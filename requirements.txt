@@ -3,3 +3,4 @@ Flask==2.0.2
 python_telegram_bot==13.12
 requests==2.25.1
 telegram==0.0.1
+gunicorn==19.9.0
